@@ -1,7 +1,7 @@
 # Automatic Brightness Adjustment Script
 
 ## Overview
-This project contains a simple bash script that automatically adjusts the brightness of your monitor based on the time of day. It's designed to run on a Linux system with `ddcutil` installed, making it perfect for environments like Ubuntu.
+This project contains a simple bash script that automatically adjusts the brightness of your monitor based on the time of day. It's designed to run on a Linux system with `ddcutil` installed, making it perfect for environments like Ubuntu, in the case you can`t controll the brightness of your monitor
 
 ## Prerequisites
 - Linux operating system (Tested on Ubuntu)
